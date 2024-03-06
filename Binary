@@ -1,0 +1,7 @@
+x = 100
+y = 10
+z = 60
+
+print("Binary representation of x:", bin(x))
+print("Binary representation of y:", bin(y))
+print("Binary representation of z:", bin(z))
